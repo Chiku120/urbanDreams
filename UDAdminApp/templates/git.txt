@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 chilka here
+=======
+my name is chilka
+>>>>>>> f84415da447e58164e6b208015063e12dd28cf6f
